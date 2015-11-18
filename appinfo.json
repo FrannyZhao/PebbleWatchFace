@@ -1,0 +1,22 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "franny8912@gmail.com",
+    "longName": "tellingTime",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "tellingTime",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "66d96bcf-3b46-4f51-920b-e0aaadaf0a22",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
